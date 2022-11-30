@@ -1,0 +1,6 @@
+@media (max-width: 1024px) {
+    .vericaltext {
+        writing-mode: vertical-lr;
+        text-orientation: upright;
+    }
+}

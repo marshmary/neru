@@ -1,0 +1,40 @@
+{
+  "quote": "「　きみに私の歌は届いていますか？　」",
+  "quoteBy": "ねる | VSinger",
+  "cover": {
+    "title": "歌ってみた"
+  },
+  "profile": {
+    "title": "プロフ",
+    "name": {
+      "title": "名前",
+      "value": "ねる"
+    },
+    "birthday": {
+      "title": "誕生日",
+      "value": "3/18"
+    },
+    "like": {
+      "title": "好きなこと",
+      "value": "歌うこと、寝ること、ゲーム"
+    },
+    "dislike": {
+      "title": "嫌いなこと",
+      "value": "早起き、時間を守る"
+    },
+    "story": {
+      "title": "ストーリー",
+      "value": "何もない日常を変えたくて…\nコンプレックスの声を武器に\n好きな歌を歌って世界を変える\n無色系（無職）ひきこもり歌い手/VTuber\n"
+    },
+    "illustrator": {
+      "title": "イラストレーター",
+      "value": "@ぼっくん",
+      "link": "https://twitter.com/bokkun168"
+    }
+  },
+  "news": {
+    "twitter": {
+      "title": "ツイッター"
+    }
+  }
+}

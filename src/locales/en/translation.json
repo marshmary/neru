@@ -1,0 +1,40 @@
+{
+  "quote": "「　Did my songs reach your heart　」",
+  "quoteBy": "Neru | VSinger",
+  "cover": {
+    "title": "Cover"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": {
+      "title": "Name",
+      "value": "Neru"
+    },
+    "birthday": {
+      "title": "Birthday",
+      "value": "3/18"
+    },
+    "like": {
+      "title": "Like",
+      "value": "Singing, sleeping, games"
+    },
+    "dislike": {
+      "title": "Dislike",
+      "value": "Get up early and keep time"
+    },
+    "story": {
+      "title": "Story",
+      "value": "I want to change my everyday life ...\nUsing the voice of the complex as a weapon\nChange the world by singing your favorite song\nColorless (unemployed) Hikikonmori singer / VTuber\n"
+    },
+    "illustrator": {
+      "title": "Illustrator",
+      "value": "@bokkun168",
+      "link": "https://twitter.com/bokkun168"
+    }
+  },
+  "news": {
+    "twitter": {
+      "title": "Twitter"
+    }
+  }
+}

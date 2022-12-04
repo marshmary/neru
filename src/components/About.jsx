@@ -11,6 +11,7 @@ const About = () => {
             id="about"
         >
             <motion.div
+                className="relative z-10"
                 initial={{ opacity: 0, x: '-10%' }}
                 whileInView={{ opacity: 1, x: '0%' }}
                 transition={{
